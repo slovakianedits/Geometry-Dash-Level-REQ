@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f961ba4-4243-4889-928c-e7f4c2d38614/dggqyse-76b77fd2-a577-44f7-b3f4-151cdec2a610.png/v1/fill/w_952,h_704,q_80,strp/geometry_dash_background__free_to_use__by_greaterhtrae_dggqyse-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzA0IiwicGF0aCI6IlwvZlwvMmY5NjFiYTQtNDI0My00ODg5LTkyOGMtZTdmNGMyZDM4NjE0XC9kZ2dxeXNlLTc2Yjc3ZmQyLWE1NzctNDRmNy1iM2Y0LTE1MWNkZWMyYTYxMC5wbmciLCJ3aWR0aCI6Ijw9OTUyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.xcUrH2KMcVo67nEURS01azNStOyyoaTuy-J3EzeChuY);
+}
+.first-txt-element {
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.second-txt-element {
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.discord-server {
+    display: flex;
+    justify-content: flex-start;
+}
+#author-of-page {
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
